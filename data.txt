@@ -1,0 +1,3 @@
+Name: Sotiris		
+Age: 28
+Favorite Color: Purple
